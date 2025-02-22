@@ -1,4 +1,4 @@
 # registration_information
-This is my first Project on GitHub.
+This is my first Project on Git & GitHub.
 <br>
 Project by Shariq Zia.
